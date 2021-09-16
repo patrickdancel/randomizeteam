@@ -1,0 +1,16 @@
+#randTeam {
+  background-position: center;
+  color: gold;
+  margin: 0;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  text-align: center;
+  background-color: #051c2d;
+  color: #596974;
+}
